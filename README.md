@@ -23,4 +23,6 @@ Nous allons :<br/>
 <li>Git plugin</li>
 </ul>
 </ul>
+<h2>Structure du projet</h2>
+<img src="structure.png">
 
